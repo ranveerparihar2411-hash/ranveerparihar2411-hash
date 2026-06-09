@@ -36,3 +36,8 @@ C | Python | SQL | Git | GitHub
 ## 📫 Connect With Me
 
 LinkedIn: www.linkedin.com/in/ranveersingh522346397
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ranveerparihar2411-hash&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ranveerparihar2411-hash&layout=compact)
