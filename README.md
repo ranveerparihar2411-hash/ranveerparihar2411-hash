@@ -25,14 +25,14 @@
 C | Python | SQL | Git | GitHub
 
 ## 📚 Learning Journey
-
+<pre>
 ✅ C Programming
 ✅ Python Fundamentals
 ✅ SQL Basics
 🔄 Data Structures & Algorithms
 ⏳ Data Engineering
 ⏳ Machine Learning
-
+</pre>
 ## 📫 Connect With Me
 
 LinkedIn: www.linkedin.com/in/ranveersingh522346397
