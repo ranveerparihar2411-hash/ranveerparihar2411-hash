@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="banner.png" width="100%">
+</div>
+
 <h2> # Hi <h2> 👋,
 <h2> I'm Ranveer Singh <h2>
 
