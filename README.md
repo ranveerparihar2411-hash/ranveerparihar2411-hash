@@ -1,2 +1,3 @@
 # 1st-repo
-This is my first repository 
+HELLO! 
+This is ranveer singh 
